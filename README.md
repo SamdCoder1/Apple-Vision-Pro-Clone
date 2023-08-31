@@ -1,14 +1,14 @@
 # Apple Vision Pro Clone
 
-![Project Preview](https://drive.google.com/file/d/1pZwWBgIYpGhiCa-k6xWknLeXvC6pOxpX/view?usp=sharing)
+![VN20230831_174017_V3](https://github.com/SamdCoder1/Apple-Vision-Pro-Clone/assets/114919791/d30f6e85-886d-4168-95aa-35dba3bfc6f2)
 
-Welcome to the Apple Vision Pro Clone project! 
-This project is a frontend clone of Apple Vision Pro, showcasing the exciting potential of spatial computing. 
-Dive into the seamless blend of digital and physical worlds, complete with captivating animations and parallax effects.
+- Welcome to the Apple Vision Pro Clone project! 
+- This project is a frontend clone of Apple Vision Pro, showcasing the exciting potential of spatial computing. 
+- Dive into the seamless blend of digital and physical worlds, complete with captivating animations and parallax effects.
 
 ## Demo
 
-Check out the live demo: [Demo Link](https://apple-vision-pro-clone-by-sam.netlify.app/)
+Check out the live demo: [Apple-Vision-Pro-Clone](https://apple-vision-pro-clone-by-sam.netlify.app/)
 
 ## Features
 
